@@ -19,6 +19,12 @@ body {
     text-align: center;
 }
 
+.weather-image {
+    width: 100px;
+    height: 100px;
+    margin-top: 10px;
+  }
+
 .search-box {
     display: flex;
     width: 100%;
@@ -53,6 +59,14 @@ body {
     width: 16px;
 }
 
+.det{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+    margin-top: 50px;
+}
+
 .b {
     padding: 50px;
 }
@@ -66,14 +80,6 @@ body {
     font-size: 45px;
     font-weight: 400;
     margin-top: -10px;
-}
-
-.det{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 0 20px;
-    margin-top: 50px;
 }
 
 .col{
@@ -112,8 +118,4 @@ body {
     align-items: center;
   }
   
-  .weather-image {
-    width: 100px;
-    height: 100px;
-    margin-top: 10px;
-  }
+  

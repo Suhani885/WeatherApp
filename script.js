@@ -1,5 +1,3 @@
-//Hoisting
-
 const api_key = '608e578f698683e323d358c5118c36cd';
 const apiURL = 'https://api.openweathermap.org/data/2.5/weather';
 const cityInput = document.querySelector('.city');
@@ -11,7 +9,6 @@ const weatherInfo = document.querySelector('.Weather');
 // Search for weather data
 searchBtn.addEventListener('click', () => {
     const city = cityInput.value.trim()
-    // learn about truthy and falsy values.
     if (city) {
 
         // get weather data
