@@ -7,10 +7,10 @@ A simple and elegant web application that displays real-time weather information
 
 ## ✨ Features
 
-- 🔍 Search weather by city name
-- 🌡️ Display current temperature, humidity, wind speed, and weather condition
-- 📱 Clean and responsive UI design that works on all devices
-- ⚡ Real-time data from OpenWeatherMap API
+- Search weather by city name
+- Display current temperature, humidity, wind speed, and weather condition
+- Clean and responsive UI design that works on all devices
+- Real-time data from OpenWeatherMap API
 
 ## 🚀 Installation and Setup
 
